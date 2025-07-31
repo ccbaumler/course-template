@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: STAT101
 tagline: 'STAT 101: A Statistical Adventure'
-description: "Welcome to an adventure in statistics :bar_chart: "
+description: "Welcome to an adventure in statistics 📊 "
 author: Colton Baumler
 baseurl: '/course-template' # the subpath of your site, e.g. /blog
 url: 'https://ccbaumler.github.io' # the base hostname & protocol for your site, e.g. http://example.com

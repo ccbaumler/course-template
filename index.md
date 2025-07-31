@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Stat Adv
+title: Stat Adv.
 nav_exclude: true
 seo:
   type: Course

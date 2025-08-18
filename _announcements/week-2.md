@@ -1,3 +1,9 @@
+---
+title: Week 2 Announcement
+week: 2
+date: 2025-08-18
+---
+
 **Statistics and Data Science: A Brief Overview**
 
 Statistics and data science are closely connected fields that play a crucial role in understanding and making sense of data in today’s information-driven world.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+permalink: syllabus
 description: >-
     Course policies and information.
 nav_order: 1

@@ -1,5 +1,6 @@
 ---
 timeline:
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -25,8 +26,8 @@ schedule:
         start: 9:30 AM
         end: 10:30 AM
         location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
+      - name: Break out discussion
+        start: 10:00 AM
         end: 12:30 PM
         location: 310 Soda
       - name: Office Hours
@@ -40,8 +41,8 @@ schedule:
         start: 9:30 AM
         end: 10:30 AM
         location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
+      - name: Break out discussion
+        start: 10:00 AM
         end: 12:30 PM
         location: 310 Soda
       - name: Office Hours
@@ -55,9 +56,9 @@ schedule:
         start: 9:30 AM
         end: 10:30 AM
         location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
+      - name: Dancing
+        start: 10:00 AM
+        end: 2:30 PM
         location: 310 Soda
       - name: Office Hours
         start: 12:30 PM

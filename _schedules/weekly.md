@@ -13,12 +13,6 @@ timeline:
   - '1:30 PM'
   - '2:00 PM'
   - '2:30 PM'
-  - '3:00 PM'
-  - '3:30 PM'
-  - '4:00 PM'
-  - '4:30 PM'
-  - '5:00 PM'
-  - '5:30 PM'
 schedule:
   - name: Monday
     events:
@@ -27,7 +21,7 @@ schedule:
         end: 10:30 AM
         location: 150 Wheeler
       - name: Break out discussion
-        start: 10:00 AM
+        start: 10:30 AM
         end: 12:30 PM
         location: 310 Soda
       - name: Office Hours
@@ -42,7 +36,7 @@ schedule:
         end: 10:30 AM
         location: 150 Wheeler
       - name: Break out discussion
-        start: 10:00 AM
+        start: 10:30 AM
         end: 12:30 PM
         location: 310 Soda
       - name: Office Hours
@@ -57,8 +51,8 @@ schedule:
         end: 10:30 AM
         location: 150 Wheeler
       - name: Dancing
-        start: 10:00 AM
-        end: 2:30 PM
+        start: 10:30 AM
+        end: 12:30 PM
         location: 310 Soda
       - name: Office Hours
         start: 12:30 PM

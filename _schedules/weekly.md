@@ -20,7 +20,7 @@ schedule:
         start: 9:30 AM
         end: 10:30 AM
         location: 150 Wheeler
-      - name: Break out discussion
+      - name: Section
         start: 10:30 AM
         end: 12:30 PM
         location: 310 Soda
